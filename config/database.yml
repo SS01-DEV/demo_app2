@@ -44,7 +44,7 @@ test:
   database: demo_app2_test
   pool: 5
   username: demo_app2
-  password:
+  password: Steven
 
 production:
   adapter: postgresql
@@ -52,4 +52,4 @@ production:
   database: demo_app2_production
   pool: 5
   username: demo_app2
-  password:
+  password: Steven
